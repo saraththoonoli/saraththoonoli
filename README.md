@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saraththoonoli
-- 👀 I’m interested in MEAN developer
+- 👀 I’m interested in MEARN developer
 - 🌱 I’m currently learning Angular
 
 <!---
